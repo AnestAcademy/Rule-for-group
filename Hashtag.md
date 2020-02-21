@@ -28,3 +28,4 @@ _Nghiêm cấm hành vi tự chế `#hashtag` nào khác trong các `#hashtag` �
 ## Quy định đăng bài viết
 - Toàn bộ bài viết, nội dung trong group đều phải viết đúng **chuẩn chính tả** và **có dấu** đàng hoàng.
 - Group hiện có 1 số **chủ đề** hay sử dụng. Sau khi soạn thảo nội dung bài viết của các bạn xong. Việc tiếp theo các bạn cần làm là xem ở bài ghim những **`#hashtag`** nào đang được sử dụng đúng quy định, để tránh bị xóa bài. Sau đó các **bạn chọn chủ đề** của bài viết để mọi người tìm kiếm một cách nhanh nhất. Và cũng tiện cho các **BQT** dễ dàng quản lý hơn. (Hình minh họa). 
+![](https://github.com/AnestAcademy/Rule-for-group/blob/master/Images/post.png)
