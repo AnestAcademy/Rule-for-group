@@ -52,3 +52,4 @@ _Nghiêm cấm hành vi tự chế `#hashtag` nào khác trong các `#hashtag` �
 - Không xin key/bank các môn học trong trường ở trong nhóm.
 - Không xin các tài liệu nhạy cảm đến nhà trường trong nhóm ví dụ như đề Lab các loại...
 
+### _Mong mọi người tham gia hãy thông cảm và làm đúng quy định để chúng ta có một cộng đồng vững mạnh - gắn bó._
