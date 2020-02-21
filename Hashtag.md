@@ -1,11 +1,11 @@
-## Quy định về tài khoản và tham gia nhóm
+## I. Quy định về tài khoản và tham gia nhóm
 
 - Hình đại diện rõ ràng, tránh để ảnh mặc định của facebook.
 - Tên tài khoản dễ đọc, không có quá nhiều ký tự đặc biệt hay bị để trống.
 - Không chặn thành viên BQT, các mod phê duyệt.
 - Trả lời đầy đủ và nghiêm túc 3 câu hỏi tham gia group (nếu không sẽ không được phê duyệt vào group).
 
-## Hashtag
+## II. Hashtag
 
 ### 1. Quy định gắn thẻ `#hashtag` trong bài viết
 - Đối với những bài viết trong nhóm thì phải có `#hashtag` và `#hashtag` đúng quy định ở trong bài này, những ai làm sai quy định đều bị xóa bài mà không cần thông báo trước. Đối với những bài có nội dung hữu ích cho mọi người mà `#hashtag` không đúng hoặc không có thì có thể được duyệt nhưng sẽ kèm theo nhắc nhở để bổ sung sửa đổi. Nếu không bổ sung, sửa đổi bài viết sẽ bị tắt bình luận hoặc bị xóa.
@@ -25,8 +25,12 @@
 
 _Nghiêm cấm hành vi tự chế `#hashtag` nào khác trong các `#hashtag` được quy định ở trên, nếu bài viết nào tự chế `#hashtag` sẽ bị xóa ngay lập tức._
 
-## Quy định đăng bài viết
+## III. Quy định đăng bài viết
 - Toàn bộ bài viết, nội dung trong group đều phải viết đúng **chuẩn chính tả** và **có dấu** đàng hoàng.
 - Group hiện có 1 số **chủ đề** hay sử dụng. Sau khi soạn thảo nội dung bài viết của các bạn xong. Việc tiếp theo các bạn cần làm là xem ở bài ghim những **`#hashtag`** nào đang được sử dụng đúng quy định, để tránh bị xóa bài. Sau đó các **bạn chọn chủ đề** của bài viết để mọi người tìm kiếm một cách nhanh nhất. Và cũng tiện cho các **BQT** dễ dàng quản lý hơn. (Hình minh họa).
 
 ![](https://github.com/AnestAcademy/Rule-for-group/blob/master/Images/new-post.PNG)
+
+## IV. Quy định đăng bài xin trợ giúp - hỏi đáp
+- Bài viết phải **tôn trọng** mọi người trong nhóm, **tôn trọng** người đọc, người xem, nói chuyện có đầu có đuôi, có chủ ngữ vị ngữ đàng hoàng (Ai không làm được thì xin lỗi đề nghị học lại ngữ pháp Việt Nam).
+- Bài viết phải dùng những **ngôn ngữ lịch sự**, chứ đừng có làm như ông nội người ta. Ai thiếu lịch sự bài sẽ bị xóa, tiếp tục đăng những bài như vậy mute 24h. Cố tình như vậy thì sẽ bị **BAN** khỏi nhóm.
