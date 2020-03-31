@@ -17,11 +17,14 @@
 - `#hashtag` hỗ trợ cho chúng ta rất nhiều khi tìm kiếm 1 nội dung, bài viết nào đó liên quan một cách nhanh nhất. Vì vậy, mọi người hãy tự xây dựng cho mình 1 ý thức **Search** những vấn đề mình gặp phải trước khi đăng bài nhé.
 
 ### 3. Những thẻ `#hashtag` được phép sử dụng
-- #display Các bài viết liên quan đến đồ họa.
-- #sound Các bài viết liên quan đến âm thanh.
-- #network Các bài viết liên quan đến mạng lan, wifi, bluetooth.
-- #energy Các bài viết liên quan đến CPU, Sleep - Wake, Shutdown - Restart.
-- #storage Các bài viết liên quan đến USB - HDD - SSD - Memory Card.
+
+- `#share` Các bài viết liên quan đến chia sẻ link, những đoạn code - project hay, hữu ích.
+- `#bug` Các bài viết liên quan đến lỗi code, lỗi chương trình.
+- `#support` Các bài viết liên quan đến việc cần hỗ trợ hướng dẫn học tập, hướng dẫn giải quyết vấn đề về coding.
+- `#findMentor` Các bài viết liên quan đến tìm người dạy thêm - gia sư.
+- `#findClass` Các bài viết liên quan đến tìm lớp học thêm.
+- `#recruitment` Các bài viết liên quan đến tuyển dụng.
+- `#other` Các bài viết ngoài những chủ đề trên.
 
 _Nghiêm cấm hành vi tự chế `#hashtag` nào khác trong các `#hashtag` được quy định ở trên, nếu bài viết nào tự chế `#hashtag` sẽ bị xóa ngay lập tức._
 
