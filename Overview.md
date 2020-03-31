@@ -19,7 +19,7 @@
 ### 3. Những thẻ `#hashtag` được phép sử dụng
 
 - `#share` Các bài viết liên quan đến chia sẻ link, những đoạn code - project hay, hữu ích.
-- `#bug` Các bài viết liên quan đến lỗi code, lỗi chương trình.
+- `#bug` Các bài viết liên quan đến lỗi code, lỗi chương trình cần giúp đỡ.
 - `#support` Các bài viết liên quan đến việc cần hỗ trợ hướng dẫn học tập, hướng dẫn giải quyết vấn đề về coding.
 - `#findMentor` Các bài viết liên quan đến tìm người dạy thêm - gia sư.
 - `#findClass` Các bài viết liên quan đến tìm lớp học thêm.
