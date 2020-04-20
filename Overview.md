@@ -74,6 +74,6 @@ _Nghiêm cấm hành vi tự chế `#hashtag` nào khác trong các `#hashtag` �
 
 ## VII. Link hay và hữu ích
 
-[Click here!]()
+(coming soon)
 
 ### _Mong mọi người tham gia hãy thông cảm và làm đúng quy định để chúng ta có một cộng đồng vững mạnh - gắn bó._
