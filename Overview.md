@@ -72,7 +72,6 @@ _Nghiêm cấm hành vi tự chế `#hashtag` nào khác trong các `#hashtag` �
 
 - Không mua bán - chia sẻ - spam link/bài viết linh tinh vào nhóm.
 - Không xin key/bank các môn học trong trường ở trong nhóm.
-- Không xin hay chia sẻ các tài liệu nhạy cảm đến nhà trường trong nhóm ví dụ như đề Lab - bài giải Lab các loại...
 
 
 <br />
